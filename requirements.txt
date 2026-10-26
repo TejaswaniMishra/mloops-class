@@ -1,0 +1,6 @@
+scikit-learn
+joblib        # saving reading files etc 
+fastapi       # for model deployment 
+uvicorn      # to run backend server ( fastapi ko run krne ke liye )
+pydantic          # output ko valid krne ke liye 
+httpx          # for testing the api
